@@ -1,0 +1,12 @@
+/Users/phuonganhnhu/Documents/Dokumente - Phươngs MacBook Pro/development/C#/Tascherechne/bin/Debug/netcoreapp3.1/Tascherechne.deps.json
+/Users/phuonganhnhu/Documents/Dokumente - Phươngs MacBook Pro/development/C#/Tascherechne/bin/Debug/netcoreapp3.1/Tascherechne.runtimeconfig.json
+/Users/phuonganhnhu/Documents/Dokumente - Phươngs MacBook Pro/development/C#/Tascherechne/bin/Debug/netcoreapp3.1/Tascherechne.runtimeconfig.dev.json
+/Users/phuonganhnhu/Documents/Dokumente - Phươngs MacBook Pro/development/C#/Tascherechne/bin/Debug/netcoreapp3.1/Tascherechne.dll
+/Users/phuonganhnhu/Documents/Dokumente - Phươngs MacBook Pro/development/C#/Tascherechne/bin/Debug/netcoreapp3.1/Tascherechne.pdb
+/Users/phuonganhnhu/Documents/Dokumente - Phươngs MacBook Pro/development/C#/Tascherechne/obj/Debug/netcoreapp3.1/Tascherechne.csprojAssemblyReference.cache
+/Users/phuonganhnhu/Documents/Dokumente - Phươngs MacBook Pro/development/C#/Tascherechne/obj/Debug/netcoreapp3.1/Tascherechne.csproj.CoreCompileInputs.cache
+/Users/phuonganhnhu/Documents/Dokumente - Phươngs MacBook Pro/development/C#/Tascherechne/obj/Debug/netcoreapp3.1/Tascherechne.AssemblyInfoInputs.cache
+/Users/phuonganhnhu/Documents/Dokumente - Phươngs MacBook Pro/development/C#/Tascherechne/obj/Debug/netcoreapp3.1/Tascherechne.AssemblyInfo.cs
+/Users/phuonganhnhu/Documents/Dokumente - Phươngs MacBook Pro/development/C#/Tascherechne/obj/Debug/netcoreapp3.1/Tascherechne.dll
+/Users/phuonganhnhu/Documents/Dokumente - Phươngs MacBook Pro/development/C#/Tascherechne/obj/Debug/netcoreapp3.1/Tascherechne.pdb
+/Users/phuonganhnhu/Documents/Dokumente - Phươngs MacBook Pro/development/C#/Tascherechne/obj/Debug/netcoreapp3.1/Tascherechne.genruntimeconfig.cache
